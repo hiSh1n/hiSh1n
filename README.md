@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help to improve my programming skills.
 - 💬 Ask me about Cyber Security.
 - 📫 How to reach me: [Twitter@hish1n](https://twitter.com/hiSh1n)
-- 📑 Blog: [Blogger@ssuppy](http://ssuppy.blogspot.com/)
+- 📑 Blog:
+-  [Blogger@ssuppy](http://ssuppy.blogspot.com/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiSh1n&show_icons=true&theme=radical)
 
