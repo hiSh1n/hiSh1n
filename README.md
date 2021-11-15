@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 	<img src="https://img.icons8.com/color/50/4a90e2/html-5--v2.png" width="30"/>
 	<img src="https://img.icons8.com/color/50/fa314a/javascript.png" width="30"/>
 	<img src="https://img.icons8.com/color/50/4a90e2/python.png" width="30"/>
-	<img src="https://www.pngkey.com/png/detail/368-3682149_this-metasploit-logo.png" width="50">
 </p>
