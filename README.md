@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 📑 Blog: [Blogger@ssuppy](http://ssuppy.blogspot.com/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiSh1n&show_icons=true&theme=radical)
+
+### Languages and Tools
+
+<p align="left"> 
+	<img src="https://img.icons8.com/color/50/fa314a/git.png" width="30"/>
+	<img src="https://img.icons8.com/color/50/4a90e2/css3.png" width="30"/>
+	<img src="https://img.icons8.com/color/50/fa314a/console.png" width="30"/>
+	<img src="https://img.icons8.com/color/50/4a90e2/html-5--v2.png" width="30"/>
+	<img src="https://img.icons8.com/color/50/fa314a/javascript.png" width="30"/>
+	<img src="https://img.icons8.com/color/50/4a90e2/python.png" width="30"/>
+</p>
