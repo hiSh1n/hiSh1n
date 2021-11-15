@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my js and php skills.
-- 🌱 I’m currently learning Web application penetration testing.
+- 🔭 I’m currently working on my JS and PHP skills.
+- 🌱 I’m currently learning Web Application Penetration Testing.
 - 👯 I’m looking to collaborate on Security Research, CTFS, anything fun :D
 - 🤔 I’m looking for help to improve my programming skills.
 - 💬 Ask me about Cyber Security.
