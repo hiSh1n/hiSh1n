@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 📑 Blogs:
 -  [Blogger@ssuppy](http://ssuppy.blogspot.com/)
 -  [Github_page](http://hish1n.github.io/)
+-  [Hacklido](https://hacklido.com/u/Sh1n)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiSh1n&show_icons=true&theme=radical)
 
