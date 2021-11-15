@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help to improve my programming skills.
 - 💬 Ask me about Cyber Security.
 - 📫 How to reach me: [Twitter@hish1n](https://twitter.com/hiSh1n)
-- 📑 Blog:
+- 📑 Blogs:
 -  [Blogger@ssuppy](http://ssuppy.blogspot.com/)
 -  [Github_page](http://hish1n.github.io/)
 
