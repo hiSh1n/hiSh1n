@@ -7,20 +7,20 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on my **.JS** and **.PHP** skills.
 - 🌱 I’m currently learning Web Application Penetration Testing.
-- 👯 I’m looking to collaborate on Security Research, CTFS, anything fun :D
+- 👯 I’m looking to collaborate on Security **Research, CTFS, anything fun :D**
 - >Wanna discuss some ideas or looking for a friend? feel free do DM. 
 - 🤔 I’m looking for help to improve my programming skills.
-- 💬 Ask me about Cyber Security, Business, Share market.
-- 📫 How to reach me: [Twitter@hish1n](https://twitter.com/hiSh1n)
+- 💬 Ask me about **Cyber Security, Business, Share market.**
+- 📫 How to reach me: *[Twitter@hish1n](https://twitter.com/hiSh1n)*
 - 📑 Blogs:
--  [Blogger@ssuppy](http://ssuppy.blogspot.com/)
--  [Github_page](http://hish1n.github.io/)
--  [Hacklido](https://hacklido.com/u/Sh1n)
--  [Medium](https://medium.com/@sh1n)
+-  *[Blogger@ssuppy](http://ssuppy.blogspot.com/)*
+-  *[Github_page](http://hish1n.github.io/)*
+-  *[Hacklido](https://hacklido.com/u/Sh1n)*
+-  *[Medium](https://medium.com/@sh1n)*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiSh1n&show_icons=true&theme=radical)
 
-### Languages and Tools
+### **Languages and Tools**
 
 <p align="left"> 
 	<img src="https://img.icons8.com/color/50/fa314a/git.png" width="30"/>
