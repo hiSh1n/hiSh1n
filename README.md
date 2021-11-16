@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my JS and PHP skills.
 - 🌱 I’m currently learning Web Application Penetration Testing.
 - 👯 I’m looking to collaborate on Security Research, CTFS, anything fun :D
+- Wanna discuss some ideas or looking for a friend? just :DM 
 - 🤔 I’m looking for help to improve my programming skills.
-- 💬 Ask me about Cyber Security.
+- 💬 Ask me about Cyber Security, Business, Share market.
 - 📫 How to reach me: [Twitter@hish1n](https://twitter.com/hiSh1n)
 - 📑 Blogs:
 -  [Blogger@ssuppy](http://ssuppy.blogspot.com/)
