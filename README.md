@@ -1,18 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Sh1n 
 
 <!--
 **hiSh1n/hiSh1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my **.JS** and **.PHP** skills.
-- 🌱 I’m currently learning Web Application Penetration Testing.
+- 🔭 I'm experimenting with scripting and stuff...
+- 🌱 Currently learning Web Application Penetration Testing.
 - 👯 I’m looking to collaborate on **Security Research, CTFS, anything fun :D**
 - 👉 Wanna discuss some ideas or looking for a friend? feel free do DM. 
 - 🤔 I’m looking for help to improve my programming skills.
 - 💬 Ask me about **Cyber Security, Business, Stock market.**
 - 📫 How to reach me: *[Twitter@hish1n](https://twitter.com/hiSh1n)*
-- 📑 Blogs:
+- 📑 Blogs (currently not publishing)(very soon !-_-):
 -  *[Blogger@ssuppy](http://ssuppy.blogspot.com/)*
 -  *[Github_page](http://hish1n.github.io/)*
 -  *[Hacklido](https://hacklido.com/u/Sh1n)*
