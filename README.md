@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I'm experimenting with scripting and stuff...
-- 🌱 Currently learning Web Application Penetration Testing.
+- 🔭 I'm experimenting with web development.
+- 🌱 Currently learning Back-End.
 - 👯 I’m looking to collaborate on **Security Research, CTFS, anything fun :D**
 - 👉 Wanna discuss some ideas or looking for a friend? feel free do DM. 
 - 🤔 I’m looking for help to improve my programming skills.
