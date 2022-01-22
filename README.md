@@ -1,4 +1,6 @@
-### Hello World 👋, I am Sh1n, Commerece student learning CS everyday!
+<h1 align=”center”>
+Hello World 👋 I am Sh1n 
+</h1>
 
 <!--
 **hiSh1n/hiSh1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,8 +9,8 @@ Here are some ideas to get you started:
 -->
 - ✍ Currently learning C & DSA.
 - 🤚 Open to collaborate on Projects.
-- 💬 Ask me about **CS,Commerece, Cyber Security**
-- 📫 How to reach me: *[Twitter@hish1n](https://twitter.com/hiSh1n)*
+- 💬 Ask me about **CS, Commerece, Cyber Security**
+- 📫 How to reach me: *[Twitter@hish1n](https://twitter.com/hiSh1n)* *[Email](hish1n@protonmail.com)*
 
 <!--- soon..
 -  📑 Blogs (currently not publishing)(very soon !-_-):
