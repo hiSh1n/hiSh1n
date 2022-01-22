@@ -1,24 +1,22 @@
-### Hi there 👋, I'm Sh1n 
+### Hi there 👋, I'm Sh1n. Commerece student learning CS everyday!
 
 <!--
 **hiSh1n/hiSh1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I'm experimenting with web development.
-- 🌱 Currently learning Back-End.
-- 👯 I’m looking to collaborate on **Security Research, CTFS, anything fun :D**
-- 👉 Wanna discuss some ideas or looking for a friend? feel free do DM. 
-- 🤔 I’m looking for help to improve my programming skills.
-- 💬 Ask me about **Cyber Security, Business, Stock market.**
+- 🔭 Currently learning C & DSA.
+- 💬 Ask me about **CS,Commerece, Cyber Security**
 - 📫 How to reach me: *[Twitter@hish1n](https://twitter.com/hiSh1n)*
-- 📑 Blogs (currently not publishing)(very soon !-_-):
+- 
+<!--- soon..
+-  📑 Blogs (currently not publishing)(very soon !-_-):
 -  *[Blogger@ssuppy](http://ssuppy.blogspot.com/)*
 -  *[Github_page](http://hish1n.github.io/)*
 -  *[Hacklido](https://hacklido.com/u/Sh1n)*
 -  *[Medium](https://medium.com/@sh1n)*
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiSh1n&show_icons=true&theme=radical)
+-->
+![Sh1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiSh1n&show_icons=true&theme=radical)
 
 ### **Languages and Tools**
 
