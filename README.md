@@ -1,4 +1,4 @@
-### Hi there 👋, I am Sh1n, Commerece student learning CS everyday!
+### Hello World 👋, I am Sh1n, Commerece student learning CS everyday!
 
 <!--
 **hiSh1n/hiSh1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
