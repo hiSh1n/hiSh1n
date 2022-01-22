@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ✍ Currently learning C & DSA.
 - 🤚 Open to collaborate on Projects.
 - 💬 Ask me about **CS, Commerece, Cyber Security**
-- 📫 How to reach me: [Email](hish1n@protonmail.com)
+- 📫 How to reach me: hish1n@protonmail.com
 ## Languages and Tools
  <p align="left"> 
 	<img src="https://img.icons8.com/color/50/fa314a/git.png" width="30"/>
