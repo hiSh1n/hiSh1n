@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ## About me
 - ✍ Currently learning C & DSA.
 - 🤚 Open to collaborate on Projects.
-- 💬 Ask me about **CS, Commerece, Cyber Security**
+- 💬 Ask me about **CS, Commerce, Cyber Security**
 ## Languages and Tools
  <p align="left"> 
 	<img src="https://img.icons8.com/color/50/fa314a/git.png" width="30"/>
