@@ -8,9 +8,10 @@ Hello World 👋 I am Sh1n
 Here are some ideas to get you started:
 -->
 ## About me
-- ✍ Currently learning C & DSA.
+A student,  looking for opportunities in fields of finance/marketing or IT/Cybersecurity - always open for meaningful discussions.
+- ✍ Currently learning Web Development.
 - 🤚 Open to collaborate on Projects.
-- 💬 Ask me about **CS, Commerce, Cyber Security**
+- 💬 Ask me about **Computer Science, Business/Finance, Cyber Security**
 ## Languages and Tools
  <p align="left"> 
 	<img src="https://img.icons8.com/color/50/fa314a/git.png" width="30"/>
