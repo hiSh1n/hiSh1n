@@ -8,7 +8,9 @@ Hello World 👋 I am Sh1n
 Here are some ideas to get you started:
 -->
 ## About me
-A student,  looking for opportunities in fields of finance/marketing or IT/Cybersecurity - always open for meaningful discussions.
+
+Whoami?  Passionate learner, working towards a big end goal...sry..there's no end ;
+
 - ✍ Currently learning Web Development.
 - 🤚 Open to collaborate on Projects.
 - 💬 Ask me about **Computer Science, Business/Finance, Cyber Security**
