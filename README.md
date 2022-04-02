@@ -9,15 +9,14 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">
-Hobbyist Programmer/artist /low-budget gamer/🐒D.🥤👒/Commerce student.
-Enjoy doin puzzels😵‍💫
+Hobbyist Programmer/artist/Commerce student.
 </h2>
 <p align="center">
 <img src= "https://i.pinimg.com/564x/04/8e/91/048e9171c5b6a31a3a86af9db117ba37.jpg" height="200" width="845"/>
 </p>
 	
 ## About me
-- ✍ Currently learning Web Development.
+- ✍ Currently learning Web Development, Stock market.
 - 📂 Working on Personal [Website](https://hish1n.github.io)
 - 🤚 Open to collaborate on Projects.
 - 💬 Ask me about **Computer Science, Business/Finance, Cyber Security**
