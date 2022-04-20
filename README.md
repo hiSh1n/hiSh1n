@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">
-Hobbyist Programmer/artist/Commerce student.
+Programmer👨‍💻 && CTFer🕵️‍♂️ && aspirant CA👨‍🎓
 </h2>
 <p align="center">
 <img src= "https://i.pinimg.com/564x/04/8e/91/048e9171c5b6a31a3a86af9db117ba37.jpg" height="200" width="845"/>
