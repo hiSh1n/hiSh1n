@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-<img src="https://media.giphy.com/media/jt34LHEVIsbs0Qlbi2/giphy.gif"/>
+<img src="https://media.giphy.com/media/eNkTmnCLjrVF58uNq1/giphy.gif" width='100'/>
 	
 ## About me
 <i> I am acquiring knowledge in harnessing the immense capabilities of electronic computers to automate mundane tasks on my behalf. Embracing the power of these technological marvels, I am relieved from the burden of arduous labor. These machines, built on advanced electronic circuitry, assist me in accomplishing tedious chores with unparalleled efficiency. Through the mastery of computer technology, I transcend the boundaries of manual labor and enter a realm where automation becomes my faithful companion. The dawn of this era empowers me to delegate monotonous endeavors to these electronic wonders, freeing my time for more meaningful pursuits.
