@@ -1,25 +1,14 @@
-<h1 align="center">
-Hello World 
-</h1>
 
 <!--
 **hiSh1n/hiSh1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-
-<h2 align="center">
-Programmer👨‍💻  
-</h2>
-<p align="center">
-<img src= "https://i.pinimg.com/564x/04/8e/91/048e9171c5b6a31a3a86af9db117ba37.jpg" height="200" width="845"/>
-</p>
+<img src="https://media.giphy.com/media/jt34LHEVIsbs0Qlbi2/giphy.gif"/>
 	
 ## About me
-- ✍ Currently trying and testing with different technologies and business ideas.
-- 📂 Working on Personal [Website](https://hish1n.github.io)
-- 🤚 Open to collaborate on Projects.
-- 💬 Ask me about **Computer Science, Business/Finance, Cyber Security**
+<i> I am acquiring knowledge in harnessing the immense capabilities of electronic computers to automate mundane tasks on my behalf. Embracing the power of these technological marvels, I am relieved from the burden of arduous labor. These machines, built on advanced electronic circuitry, assist me in accomplishing tedious chores with unparalleled efficiency. Through the mastery of computer technology, I transcend the boundaries of manual labor and enter a realm where automation becomes my faithful companion. The dawn of this era empowers me to delegate monotonous endeavors to these electronic wonders, freeing my time for more meaningful pursuits.
+</i>
 ## Languages and Tools
  <p align="left"> 
 	<img src="https://img.icons8.com/color/50/fa314a/git.png" width="30"/>
